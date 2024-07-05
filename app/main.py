@@ -1360,4 +1360,4 @@ async def on_member_join(member):
 
 
 server_thread()
-bot.run("TOKEN")
+bot.run(TOKEN)
