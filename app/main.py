@@ -281,31 +281,31 @@ last_result = {}
 # おみくじの結果ごとの画像URLとメッセージを辞書で定義
 result_data = {
     "大吉": {
-        "image": "https://pbs.twimg.com/media/GI_dORDbkAAB_WL?format=png&name=large",
+        "image": "https://drive.google.com/file/d/15h1lWskMwhKaYkp4T7AUJtU-rZrTgAj-/view?usp=sharing",
         "messages": ["今日はあなたにとって最高の日になるでしょう。", "あなたの夢は現実になり、あなたの努力は実を結びます。", "あなたは幸運に恵まれ、周囲の人々から愛されます。"]
     },
     "中吉": {
-        "image": "https://pbs.twimg.com/media/GI_dORDbYAAeCMK?format=png&name=large",
+        "image": "https://drive.google.com/file/d/1ltJqK-pU2-TZ5Yu1f6AdqDo1sowIEz-Y/view?usp=sharing",
         "messages": ["あなたは困難を乗り越え、成功を収めるでしょう。", "あなたの努力は認められ、あなたの才能は光を放つでしょう。", "あなたは新しいチャンスを見つけ、それを活用するでしょう。"]
     },
     "小吉": {
-        "image": "https://pbs.twimg.com/media/GI_dOREawAAfr9q?format=png&name=large",
+        "image": "https://drive.google.com/file/d/1zpntgVlGFDaG88GXHp1sq6pwcybYJ1vw/view?usp=sharing",
         "messages": ["あなたは小さな幸せを見つけ、それを大切にするでしょう。", "あなたの日常は平穏で、あなたの心は安らぎます。", "あなたは自分自身を信じ、前進し続けるでしょう。"]
     },
     "吉": {
-        "image": "https://pbs.twimg.com/media/GI_dQKsbwAEK4Ky?format=png&name=large",
+        "image": "https://drive.google.com/file/d/17Vsxdt-mNb_K8wEuat2SzQArsebi-VDY/view?usp=sharing",
         "messages": ["あなたは困難を乗り越え、成功を収めるでしょう。", "あなたの努力は認められ、あなたの才能は光を放つでしょう。", "あなたは新しいチャンスを見つけ、それを活用するでしょう。"]
     },
     "末吉": {
-        "image": "https://pbs.twimg.com/media/GI_dQLPb0AIZPTH?format=png&name=large",
+        "image": "https://drive.google.com/file/d/12Xxsva0oOxoXBDDPBv9a0yN-kMobZViR/view?usp=sharing",
         "messages": ["あなたは今は困難かもしれませんが、将来的には成功を収めるでしょう。", "あなたの努力は時間をかけて認められ、あなたの才能は最終的に光を放つでしょう。", "あなたは新しいチャンスを見つけ、それを活用するでしょう。"]
     },
     "凶": {
-        "image": "https://pbs.twimg.com/media/GI_dQKQa4AAbudo?format=png&name=large",
+        "image": "https://drive.google.com/file/d/1B3XbFuMsz0182dOw_ce83jPiVctSx9S6/view?usp=sharing",
         "messages": ["あなたは困難に直面するかもしれませんが、それはあなたを強くするでしょう。", "あなたの努力は一時的に報われないかもしれませんが、あきらめずに続けてください。", "あなたは失敗から学び、それを成長の機会とするでしょう。"]
     },
     "大凶": {
-        "image": "https://pbs.twimg.com/media/GI_dORJa8AA8b9p?format=png&name=large",
+        "image": "https://drive.google.com/file/d/1EOT2EwHQnGEOUbrfl4QK8F0K-ZBvqPxa/view?usp=sharing",
         "messages": ["あなたは大きな困難に直面するかもしれませんが、それはあなたを更に強くするでしょう。", "あなたの努力は一時的に報われないかもしれませんが、あきらめずに続けてください。", "あなたは失敗から学び、それを成長の機会とするでしょう。"]
     },
 }
